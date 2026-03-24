@@ -5,7 +5,7 @@
 ### 🛡️ Étudiante Ingénieure | ESIEA | Future spécialisation Cybersécurité
 ### 🔍 Alternance 24 mois — Septembre 2026 | Mobile toute la France
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bridget-atsa-nangou-7109163a3)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bridget-atsa-nangou)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/atsa19)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:atsabridget9@gmail.com)
 
