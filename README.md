@@ -1,41 +1,90 @@
-# Salut, je suis Bridget ! 👋
+<div align="center">
 
-### Étudiante en 3e année à l'ESIEA | Passionnée de Cybersécurité 🛡️
+# Bridget ATSA NANGOU
 
-Je suis une future ingénieure passionnée par la protection des systèmes et le développement logiciel. Actuellement à la recherche d'un stage en cybersécurité (Consultante / Analyste).
+### 🛡️ Étudiante Ingénieure | ESIEA | Future spécialisation Cybersécurité
+### 🔍 Alternance 24 mois — Septembre 2026 | Mobile toute la France
 
-- 🔭 Je travaille actuellement sur : **Projet FestiCore (Java)** et une **Simulation de Parking (C)**.
-- 🌱 J'apprends : L'architecture des ordinateurs et le traitement du signal.
-- 🎯 Objectif : Devenir experte en sécurité des réseaux et systèmes.
-
----
-
-### 🛠️ Mes Compétences Techniques
-
-**Langages & Outils :**
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-
-**Réseaux & Sécurité :**
-* Modèle OSI & Protocoles IP
-* Architecture des processeurs
-* Analyse de paquets & Troubleshooting
-
----
-
-### 🚀 Mes Projets Phares
-
-| Projet | Description | Techno |
-| :--- | :--- | :--- |
-| **FestiCore** | Application de gestion de festival (UML, POO). | Java |
-| **Parking Sim** | Simulation de gestion de parking et allocation mémoire. | C |
-| **Catalogue Musical** | Gestionnaire de base de données musicale collaborative. | C / GitLab |
-
----
-
-### 📫 Me contacter
-
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/ bridget-atsa-nangou-7109163a3)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bridget-atsa-nangou-7109163a3)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/atsa19)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:atsabridget9@gmail.com)
+
+</div>
+
+---
+
+## 👩🏾‍💻 À propos
+
+Passionnée par la **sécurité offensive et défensive**, je construis des outils concrets en dehors de mes cours pour développer mes compétences et prouver ma motivation. Double compétence technique (réseaux, développement, analyse de vulnérabilités) et gouvernance (RGPD, EBIOS, NIS2).
+
+- 🎓 Étudiante ingénieure 3e année à l'**ESIEA** — spécialisation Cybersécurité dès la 4e année
+- 🔭 En cours : **Lab Firewall pfSense** — simulation d'architecture réseau d'entreprise
+- 🌍 Mobile toute la France
+- 📫 atsabridget9@gmail.com
+
+---
+
+## 🚀 Projets Phares
+
+### 🔍 [VulnScanner — Scanner de vulnérabilités réseau](https://github.com/atsa19/vulnerability-scanner)
+
+> Outil CLI automatisé de détection de CVE via l'API officielle NVD/NIST
+
+| | |
+|---|---|
+| **Stack** | Python · Nmap · API NVD/NIST · SQLite · Flask · Jinja2 |
+| **Résultat** | ✅ 60 CVE détectées sur Metasploitable2 — 3 Critical, 25 High — score 100/100 |
+```bash
+python main.py --target scanme.nmap.org
+```
+
+---
+
+### 🍯 [SSH Honeypot avec dashboard temps réel](https://github.com/atsa19/honeypot)
+
+> Faux serveur SSH capturant les tentatives d'intrusion avec visualisation live
+
+| | |
+|---|---|
+| **Stack** | Python · Paramiko · Flask · SQLite · Chart.js |
+| **Résultat** | ✅ Capture de tentatives réelles avec dashboard web temps réel |
+
+---
+
+### 🔥 Lab Sécurité Réseaux & Firewall *(en cours)*
+
+> Simulation d'architecture réseau d'entreprise sécurisée
+
+| | |
+|---|---|
+| **Stack** | pfSense · VirtualBox · Wireshark |
+| **Objectif** | Segmentation LAN/DMZ/WAN · Règles de filtrage · Analyse de trafic |
+
+---
+
+## 🛠️ Stack Technique
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![SQL](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+
+---
+
+## 📊 Expériences
+
+| Entreprise | Poste | Période |
+|---|---|---|
+| **ANTIC** — Agence Nationale des TIC | Stagiaire Cybersécurité & Conformité | Juin – Août 2025 |
+| **Megasoft** | Stagiaire IT — Réseaux & Opérations | Juin – Août 2024 |
+
+---
+
+<div align="center">
+
+*"La cybersécurité n'est pas un produit, c'est un processus."*
+
+</div>
